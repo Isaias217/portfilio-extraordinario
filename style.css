@@ -17,7 +17,7 @@ header{
 
 .headerBackground{
     height: 90px;
-    background-color: white;
+    background-color: rgba(124, 151, 120, 0.942);
     position: fixed;
 }
 
@@ -59,11 +59,11 @@ body{
     display: flex;
     gap: 68px;
     color: white;
-    padding: px;
+    padding: 10px;
 }
 
 .menu a{
-    color: rgb(0, 0, 0);
+    color: white;
     font-size: 20px;
     text-decoration: none;
     font-weight: 600;
@@ -122,15 +122,16 @@ body{
 
 
 .perfil {
-    padding: 35px 20px 20px 0px;
+    padding: 35px 0px 20px 0px;
     display: flex;
-   
+    text-align: center;
+    align-items: center;
+    gap: 34px;
     }
 
 .perfil a{
     text-decoration: none;
     color: white;
-    
 }
 
 
