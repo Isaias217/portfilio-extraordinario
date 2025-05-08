@@ -124,3 +124,65 @@ body{
   padding: 50px;
 }
 
+.title{
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  padding: 10% ;
+}
+
+.lasted{
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  padding: 50px;
+}
+
+.lastedv2{
+  margin: 20px 0px 30px 0px ;
+}
+
+.clients{
+  display: flex;
+  justify-content: center;
+  
+  
+  margin: 0px 0px 300px 0px ;
+  border-radius: 30px;
+}
+
+.clientsv1{
+  background-color: #F3F3F3;
+  
+    margin: 35px;
+    width: 370px;
+    
+    padding: 20px;
+}
+
+.clientsv1 img{
+  width: 300px;
+}
+
+.clientsv2{
+  background-color: #F3F3F3;
+  padding: 20px;
+    margin: 35px;
+    width: 370px;
+    
+}
+
+.clientsv3{
+  background-color: #F3F3F3;
+  padding: 20px;
+    margin: 35px;
+    width: 370px;
+    
+}
+
+.cli{
+    text-align: left;
+    width: 300px;
+    margin: 0px 0px 150px 0px ;
+    
+}
